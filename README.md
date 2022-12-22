@@ -1,2 +1,2 @@
-# Image-Classification---Car-and-Bike-Classification
-Creating a deep learning model to classify car and bike images based on Convolutional Neural Network (CNN) algorithm.
+# Telco Customer Churn Prediction
+Predicting whether the customer will churn or not with Artificial Neural Network (ANN) algorithm.
